@@ -1,0 +1,24 @@
+=================================
+README file for the Cabot project
+=================================
+
+What is ``Cabot``?
+==================
+
+"cabot" is a French word which familiarly describes a dog, with a slight
+despising flavour added in.  But here, it is a personal IRC bot meant to
+index or describe my own projects and interests.  I might also make it
+available and useful to the Python community.
+
+It is meant to grow in the line and spirit of the very nice ``fsbot``
+as seen on the ``#emacs`` channel among others; ``fsbot`` is an ErBot
+instance developed and maintained by Deepak Goel (known as ``deego``).
+
+This is still all pretty preliminary and exploratory.  These files are
+only available so people may peek at them if they feel like it.
+
+Reaching me
+===========
+
+François Pinard, mailto:pinard@iro.umontreal.ca .
+And sometimes too, as ``icule`` on aic.freenode.net .

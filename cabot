@@ -1,0 +1,12 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+# Copyright © 2004 PROGICIELS Bourbeau-Pinard, inc. Montréal.
+# François Pinard <pinard@progiciels-bpi.ca>, 2004.
+
+"""\
+IRC bot for `icule'.
+"""
+
+import sys
+from Cabot import cabot
+cabot.main(*sys.argv[1:])

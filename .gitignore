@@ -1,0 +1,4 @@
+*.pyc
+build/*
+database/db
+database/log
