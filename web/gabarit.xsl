@@ -15,7 +15,7 @@
         </fp:section>
 
         <fp:section title="Source files">
-          <fp:entry text="Browse" href="http://github.com/pinard/Cabot"/>
+          <fp:entry text="Browse" href="https://github.com/pinard/Cabot"/>
         </fp:section>
 
       </with-param>
