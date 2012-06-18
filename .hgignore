@@ -1,0 +1,11 @@
+syntax: glob
+*.pyc
+build/*
+database/db
+database/log
+*~
+*.swp
+admin/*
+build-*/*
+html-*
+web/notes/*
