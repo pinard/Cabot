@@ -1,6 +1,6 @@
 SETUP = python setup.py --quiet
 
-all:
+all pregithub:
 	$(SETUP) build
 
 install:
